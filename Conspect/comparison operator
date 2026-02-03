@@ -1,0 +1,9 @@
+x = 10
+y = 5
+
+print(x == y)   # Равно? False
+print(x != y)   # Не равно? True
+print(x > y)    # Больше? True
+print(x < y)    # Меньше? False
+print(x >= y)   # Больше или равно? True
+print(x <= y)   # Меньше или равно? False
